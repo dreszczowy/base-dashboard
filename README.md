@@ -2,8 +2,13 @@
 
 A simple dashboard concept for monitoring Base chain activity, gas, and popular contracts.
 
+## Current
+- Basic HTML structure with gas display
+- Gas price fetch example (app.js)
+- Notes on metrics, RPC, frontend, data sources, next steps
+
 ## Ideas
-- Gas price tracker
+- Live gas tracker
 - Recent transactions
-- Popular contracts list
-- Wallet activity overview
+- Popular contracts
+- Wallet overview
